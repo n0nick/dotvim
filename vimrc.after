@@ -128,3 +128,4 @@ set colorcolumn=80
 
 " Use Powerline for Airline
 let g:airline_powerline_fonts = 1
+set laststatus=2

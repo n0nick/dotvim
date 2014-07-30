@@ -9,10 +9,13 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " UI, Navigation
+Plugin 'Shougo/unite.vim'
+Plugin 'Shougo/neomru.vim'
+Plugin 'Shougo/vimproc.vim'
+Plugin 'Shougo/unite-outline'
 Plugin 'scrooloose/nerdtree.git'
 Plugin 'skwp/vim-colors-solarized'
 " Plugin 'kien/ctrlp.vim'
-Plugin 'Shougo/unite.vim'
 Plugin 'airblade/vim-gitgutter.git'
 Plugin 'duff/vim-bufonly'
 Plugin 'bling/vim-airline'

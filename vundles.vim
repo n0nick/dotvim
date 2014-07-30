@@ -26,16 +26,15 @@ Plugin 'tomtom/tcomment_vim.git'
 Plugin 'scrooloose/syntastic.git'
 Plugin 'tpope/vim-repeat.git'
 Plugin 'tpope/vim-surround.git'
+Plugin 'tpope/vim-abolish'
 Plugin 'Shougo/neocomplcache.git'
 Plugin 'vim-easy-align'
-Plugin 'tpope/vim-abolish'
 " Plugin 'Valloric/YouCompleteMe'
 
 " Text objects
 
 " File formats
 Plugin 'tpope/vim-rails.git'
-Plugin 'vim-ruby/vim-ruby.git'
 Plugin 'tpope/vim-haml'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'fatih/vim-go'

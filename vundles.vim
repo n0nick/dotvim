@@ -13,9 +13,7 @@ Plugin 'Shougo/unite.vim'
 Plugin 'Shougo/neomru.vim'
 Plugin 'Shougo/vimproc.vim'
 Plugin 'Shougo/unite-outline'
-Plugin 'scrooloose/nerdtree.git'
 Plugin 'skwp/vim-colors-solarized'
-" Plugin 'kien/ctrlp.vim'
 Plugin 'airblade/vim-gitgutter.git'
 Plugin 'duff/vim-bufonly'
 Plugin 'bling/vim-airline'
@@ -44,7 +42,6 @@ Plugin 'kchmck/vim-coffee-script'
 Plugin 'fatih/vim-go'
 Plugin 'uarun/vim-protobuf'
 Plugin 'editorconfig/editorconfig-vim'
-"Plugin 'astashov/vim-ruby-debugger" "TODO
 Plugin 'pangloss/vim-javascript'
 
 " Git, Github

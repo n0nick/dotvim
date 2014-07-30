@@ -19,6 +19,7 @@ Plugin 'duff/vim-bufonly'
 Plugin 'bling/vim-airline'
 Plugin 'vim-scripts/ShowMarks'
 Plugin 'elentok/replace-all.vim'
+Plugin 'tpope/vim-unimpaired'
 
 " Editing
 Plugin 'Raimondi/delimitMate'

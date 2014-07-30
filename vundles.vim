@@ -35,7 +35,7 @@ Plugin 'tpope/vim-abolish'
 " Text objects
 
 " File formats
-"Plugin 'tpope/vim-rails.git'
+Plugin 'tpope/vim-rails.git'
 Plugin 'vim-ruby/vim-ruby.git'
 Plugin 'tpope/vim-haml'
 Plugin 'kchmck/vim-coffee-script'

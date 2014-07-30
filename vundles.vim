@@ -29,7 +29,6 @@ Plugin 'tpope/vim-surround.git'
 Plugin 'Shougo/neocomplcache.git'
 Plugin 'vim-easy-align'
 Plugin 'tpope/vim-abolish'
-" Plugin 'nelstrom/vim-visual-star-search'
 " Plugin 'Valloric/YouCompleteMe'
 
 " Text objects

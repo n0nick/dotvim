@@ -20,6 +20,8 @@ Plugin 'bling/vim-airline'
 Plugin 'vim-scripts/ShowMarks'
 Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
+Plugin 'danro/rename.vim'
+Plugin 'nathanaelkane/vim-indent-guides'
 
 " Tmux integration
 Plugin 'christoomey/vim-tmux-navigator'
@@ -48,6 +50,7 @@ Plugin 'fatih/vim-go'
 Plugin 'uarun/vim-protobuf'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'pangloss/vim-javascript'
+Plugin 'burnettk/vim-angular'
 
 " Git, Github
 Plugin 'tpope/vim-fugitive'

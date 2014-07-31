@@ -48,6 +48,10 @@ function! s:unite_settings()
 
   " Exit via Q or esc
   nmap <buffer> <esc> <plug>(unite_exit)
+
+  if exists('g:better_whitespace_enabled') && g:better_whitespace_enabled
+    DisableWhitespace
+  endif
 endfunction
 
 " The key mappings

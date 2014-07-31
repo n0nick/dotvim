@@ -1,1 +1,1 @@
-nmap ,w :FixWhitespace<CR>
+nmap ,w :StripWhitespace<CR>

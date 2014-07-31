@@ -33,7 +33,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'Shougo/neocomplcache'
 Plugin 'junegunn/vim-easy-align'
 Plugin 'tmhedberg/matchit'
-Plugin 'bronson/vim-trailing-whitespace'
+Plugin 'ntpeters/vim-better-whitespace'
 
 " Text objects
 

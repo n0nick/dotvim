@@ -20,6 +20,7 @@ Plugin 'bling/vim-airline'
 Plugin 'vim-scripts/ShowMarks'
 Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
+Plugin 'christoomey/vim-tmux-navigator'
 
 " Editing
 Plugin 'tpope/vim-sensible'

@@ -1,5 +1,4 @@
-" More natural split opening
-" http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally
+" http://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally
+" open new split panes to right and bottom, feels more natural
 set splitbelow
 set splitright
-

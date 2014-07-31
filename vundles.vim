@@ -22,6 +22,7 @@ Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
 
 " Editing
+Plugin 'tpope/vim-sensible'
 Plugin 'tpope/vim-repeat'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-abolish'

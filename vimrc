@@ -36,19 +36,20 @@ if filereadable(expand("~/.vim/vundles.vim"))
   source ~/.vim/vundles.vim
 endif
 
-" ================ Turn Off Swap Files ==============
+" store swap files while working
+silent execute '!mkdir -p ~/.vim/tmp/swap'
+set swapfile
+set directory=~/.vim/tmp/swap,/tmp
 
-set noswapfile
-set nobackup
-set nowb
+" make a backup before overwriting a file
+silent execute '!mkdir -p ~/.vim/tmp/backup'
+set backup writebackup
+set backupdir=~/.vim/tmp/backup
 
-" ================ Persistent Undo ==================
-" Keep undo history across sessions, by storing in file.
-" Only works all the time.
-
-silent !mkdir ~/.vim/backups > /dev/null 2>&1
-set undodir=~/.vim/backups
+" persistent undo via text files
+silent execute '!mkdir -p ~/.vim/tmp/undo'
 set undofile
+set undodir=~/.vim/tmp/undo
 
 " ================ Indentation ======================
 

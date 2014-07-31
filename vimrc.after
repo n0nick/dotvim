@@ -104,6 +104,7 @@ let g:tex_flavor='latex'
 
 " mark search results
 set hlsearch
+map <C-l> :set hlsearch!<cr>
 
 " JS file syntax
 au BufRead,BufNewFile *.js set ft=javascript

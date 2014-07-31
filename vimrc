@@ -9,11 +9,6 @@ endif
 " line numbers are good
 set number
 
-
-set showmode                    "Show current mode down the bottom
-set gcr=a:blinkon0              "Disable cursor blink
-set visualbell                  "No sounds
-
 " enable hidden buffers
 " http://items.sjbach.com/319/configuring-vim-right
 set hidden

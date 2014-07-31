@@ -37,7 +37,7 @@ nnoremap ' `
 nnoremap ` '
 
 " Toggle hlsearch
-map <C-l> :set hlsearch!<cr>
+map // :set hlsearch!<cr>
 
 " Clipboard stuff
 vmap <Leader>y "*y

@@ -20,8 +20,12 @@ Plugin 'bling/vim-airline'
 Plugin 'vim-scripts/ShowMarks'
 Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
+
+" Tmux integration
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'edkolev/tmuxline.vim'
+Plugin 'benmills/vimux'
+Plugin 'jgdavey/vim-turbux'
 
 " Editing
 Plugin 'tpope/vim-sensible'
@@ -35,8 +39,6 @@ Plugin 'Shougo/neocomplcache'
 Plugin 'junegunn/vim-easy-align'
 Plugin 'tmhedberg/matchit'
 Plugin 'ntpeters/vim-better-whitespace'
-
-" Text objects
 
 " File formats
 Plugin 'tpope/vim-rails'

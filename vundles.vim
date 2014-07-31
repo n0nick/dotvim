@@ -31,7 +31,6 @@ Plugin 'tomtom/tcomment_vim'
 Plugin 'scrooloose/syntastic'
 Plugin 'Shougo/neocomplcache'
 Plugin 'vim-easy-align'
-" Plugin 'Valloric/YouCompleteMe'
 
 " Text objects
 

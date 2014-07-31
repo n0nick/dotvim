@@ -76,6 +76,15 @@ set wildignore+=*.png,*.jpg,*.gif
 " easy on the eyes side-scrolling
 set sidescroll=1
 
+" Enable mouse mode
+set mouse=a
+
+" Line length column
+set colorcolumn=80
+
+" mark search results
+set hlsearch
+
 " source ~/.vimrc.after if it exists.
 if filereadable(expand("~/.vimrc.after"))
   source ~/.vimrc.after

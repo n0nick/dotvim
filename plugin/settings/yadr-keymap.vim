@@ -36,3 +36,10 @@ nnoremap <silent> ,cn :let @* = expand("%:t")<CR>
 nnoremap ' `
 nnoremap ` '
 
+" Toggle hlsearch
+map <C-l> :set hlsearch!<cr>
+
+" Clipboard stuff
+set clipboard=unnamed " this copies to OS's clipboard
+vmap <Leader>y "*y
+map <Leader>p "*p<CR>

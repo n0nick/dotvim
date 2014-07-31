@@ -30,7 +30,7 @@ Plugin 'Raimondi/delimitMate'
 Plugin 'tomtom/tcomment_vim'
 Plugin 'scrooloose/syntastic'
 Plugin 'Shougo/neocomplcache'
-Plugin 'vim-easy-align'
+Plugin 'junegunn/vim-easy-align'
 Plugin 'tmhedberg/matchit'
 
 " Text objects

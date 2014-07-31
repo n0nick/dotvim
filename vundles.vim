@@ -21,6 +21,7 @@ Plugin 'vim-scripts/ShowMarks'
 Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
 Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'edkolev/tmuxline.vim'
 
 " Editing
 Plugin 'tpope/vim-sensible'

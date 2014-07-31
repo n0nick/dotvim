@@ -14,7 +14,7 @@ Plugin 'Shougo/neomru.vim'
 Plugin 'Shougo/vimproc.vim'
 Plugin 'Shougo/unite-outline'
 Plugin 'skwp/vim-colors-solarized'
-Plugin 'airblade/vim-gitgutter.git'
+Plugin 'airblade/vim-gitgutter'
 Plugin 'duff/vim-bufonly'
 Plugin 'bling/vim-airline'
 Plugin 'vim-scripts/ShowMarks'
@@ -22,20 +22,20 @@ Plugin 'elentok/replace-all.vim'
 Plugin 'tpope/vim-unimpaired'
 
 " Editing
-Plugin 'Raimondi/delimitMate'
-Plugin 'tomtom/tcomment_vim.git'
-Plugin 'scrooloose/syntastic.git'
-Plugin 'tpope/vim-repeat.git'
-Plugin 'tpope/vim-surround.git'
+Plugin 'tpope/vim-repeat'
+Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-abolish'
-Plugin 'Shougo/neocomplcache.git'
+Plugin 'Raimondi/delimitMate'
+Plugin 'tomtom/tcomment_vim'
+Plugin 'scrooloose/syntastic'
+Plugin 'Shougo/neocomplcache'
 Plugin 'vim-easy-align'
 " Plugin 'Valloric/YouCompleteMe'
 
 " Text objects
 
 " File formats
-Plugin 'tpope/vim-rails.git'
+Plugin 'tpope/vim-rails'
 Plugin 'tpope/vim-haml'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'fatih/vim-go'
@@ -47,7 +47,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-git'
 Plugin 'mattn/gist-vim'
-Plugin 'mattn/webapi-vim.git'
+Plugin 'mattn/webapi-vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required

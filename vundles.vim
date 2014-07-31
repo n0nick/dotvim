@@ -55,6 +55,10 @@ Plugin 'tpope/vim-git'
 Plugin 'mattn/gist-vim'
 Plugin 'mattn/webapi-vim'
 
+" Misc
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-notes'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required

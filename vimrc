@@ -88,6 +88,7 @@ set hlsearch
 " mark tabs, trailing whitespace
 set list
 set listchars=tab:▸\ ,eol:¬,trail:·
+map <Leader>l :set list!<cr>
 
 " source ~/.vimrc.after if it exists.
 if filereadable(expand("~/.vimrc.after"))

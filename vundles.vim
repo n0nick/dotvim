@@ -40,7 +40,6 @@ Plugin 'scrooloose/syntastic'
 Plugin 'Shougo/neocomplcache'
 Plugin 'junegunn/vim-easy-align'
 Plugin 'tmhedberg/matchit'
-Plugin 'ntpeters/vim-better-whitespace'
 
 " File formats
 Plugin 'tpope/vim-rails'

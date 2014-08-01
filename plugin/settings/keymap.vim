@@ -42,3 +42,4 @@ map // :set hlsearch!<cr>
 " Clipboard stuff
 vmap <Leader>y "*y
 map <Leader>p "*p<CR>
+map <Leader>P "*P<CR>

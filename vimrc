@@ -86,7 +86,8 @@ set colorcolumn=80
 set hlsearch
 
 " mark tabs, trailing whitespace
-set list listchars=tab:\ \ ,trail:·
+set list
+set listchars=tab:▸\ ,eol:¬,trail:·
 
 " source ~/.vimrc.after if it exists.
 if filereadable(expand("~/.vimrc.after"))

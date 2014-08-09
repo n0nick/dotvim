@@ -1,20 +1,24 @@
-# n0nick/dotvim
+# <s>n0nick/dotvim</s>
 
-This is my personal Vim configuration, here mainly for backup and sharing.
-I guarantee nothing.
+<hr>
+### Please note: I've deprecated this repository, in favor of keeping all of my dotfiles under [n0nick/dotfiles](https://github.com/n0nick/dotfiles). This is here just for history backup.
+<hr>
 
-Most of the stuff (especially `~/.vimrc` and stuff under `plugins/settings`)
-are inspired by [YADR](https://github.com/skwp/dotfiles).
+<s>This is my personal Vim configuration, here mainly for backup and sharing.
+I guarantee nothing.</s>
 
-## Installation
+<s>Most of the stuff (especially `~/.vimrc` and stuff under `plugins/settings`)
+are inspired by [YADR](https://github.com/skwp/dotfiles).</s>
 
-1. Clone the repository into `~/.vim`
+## <s>Installation</s>
+
+1. <s>Clone the repository into `~/.vim`</s>
 
         git clone https://github.com/n0nick/vimrc.git ~/.vim
 
-2. Use the install script.
+2. <s>Use the install script.
    This will link `~/.vimrc` and `~/.vimrc.after`,
    install [Vundle.vim](https://github.com/gmarik/Vundle.vim)
-   and use Vundle.vim for installing other plugins.
+   and use Vundle.vim for installing other plugins.</s>
 
         ~/.vim/install.sh

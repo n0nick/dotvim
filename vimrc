@@ -14,7 +14,9 @@ set number
 set hidden
 
 " turn on syntax highlighting
-syntax on
+if &t_Co > 2 || has("gui_running")
+  syntax on
+endif
 
 " set leader key
 let mapleader=","
@@ -46,8 +48,11 @@ set softtabstop=2
 set tabstop=2
 set expandtab
 
-filetype plugin on
-filetype indent on
+if  has("autocmd")
+  filetype plugin indent on
+else
+  set autoindent
+endif
 
 " don't wrap lines
 set nowrap

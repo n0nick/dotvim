@@ -1,9 +1,6 @@
 " Go to last edit location with ,.
 nnoremap <Leader>. '.
 
-" GitGrep - open up a git grep line, with a quote started for the search
-nnoremap <Leader>gg :GitGrep ""<left>
-
 " Create window splits easier
 nnoremap <silent> vv <C-w>v
 nnoremap <silent> ss <C-w>s

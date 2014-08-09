@@ -8,3 +8,5 @@ autocmd User fugitive
   \ endif
 autocmd BufReadPost fugitive://* set bufhidden=delete
 
+" Speed up git-gutter
+let g:gitgutter_eager = 0
